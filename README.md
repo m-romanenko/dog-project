@@ -19,4 +19,4 @@ Given an image of a dog, this algorithm will identify an estimate of the canineâ
 
 3. Finally, download the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset and place it to `path/to/dog-project/bottleneck_features`.
 
-4. You can now run the Jupyter notebook and train the model ! 
+4. You can now run the Jupyter notebook [dog_app.ipynb](./dog_app.ipynb) and train the model ! 
